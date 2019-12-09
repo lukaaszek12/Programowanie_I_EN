@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Klasy_interfejsy/Klasy_interfejsy.iml" filepath="$PROJECT_DIR$/Klasy_interfejsy/Klasy_interfejsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Petle_instrukcje_sterujace/Petle_instrukcje_sterujace.iml" filepath="$PROJECT_DIR$/Petle_instrukcje_sterujace/Petle_instrukcje_sterujace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programowanie_I_EN.iml" filepath="$PROJECT_DIR$/Programowanie_I_EN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice.iml" filepath="$PROJECT_DIR$/Tablice/Tablice.iml" />
+    </modules>
+  </component>
+</project>
