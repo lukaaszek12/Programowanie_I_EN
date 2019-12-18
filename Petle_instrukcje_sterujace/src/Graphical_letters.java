@@ -46,10 +46,10 @@ public class Graphical_letters {
     }
 
     public void printText(){
-        for(int i=0; i<text.get(0).length; i++){
-            for(int j=0; j<text.size(); j++){
-                for(int k=0; k<text.get(j).length; k++){
-                    if(text.get(j)[i][k]==1){
+        for(int i=0; i<text.get(0).length; i++){ //iterowanie po wierszach
+            for(int j=0; j<text.size(); j++){       //iterowanie po literach
+                for(int k=0; k<text.get(j).length; k++){    //iterowanie po kolumnach liter
+                    if(text.get(j)[i][k]==1){       //sprawdzenie czy drukowac znak
                         System.out.print('$');
                     }
                     else{
