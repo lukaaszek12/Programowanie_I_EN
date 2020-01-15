@@ -5,12 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/Algorytmy/Algorytmy.iml" filepath="$PROJECT_DIR$/Algorytmy/Algorytmy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorytmy_rekurencyjne/Algorytmy_rekurencyjne.iml" filepath="$PROJECT_DIR$/Algorytmy_rekurencyjne/Algorytmy_rekurencyjne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Klasy_interfejsy/Klasy_interfejsy.iml" filepath="$PROJECT_DIR$/Klasy_interfejsy/Klasy_interfejsy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Petle_instrukcje_sterujace/Petle_instrukcje_sterujace.iml" filepath="$PROJECT_DIR$/Petle_instrukcje_sterujace/Petle_instrukcje_sterujace.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programowanie_I_EN.iml" filepath="$PROJECT_DIR$/Programowanie_I_EN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proste_algorytmy/Proste_algorytmy.iml" filepath="$PROJECT_DIR$/Proste_algorytmy/Proste_algorytmy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortowanie/Sortowanie.iml" filepath="$PROJECT_DIR$/Sortowanie/Sortowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struktury_danych/Struktury_danych.iml" filepath="$PROJECT_DIR$/Struktury_danych/Struktury_danych.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strumienie/Strumienie.iml" filepath="$PROJECT_DIR$/Strumienie/Strumienie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tablice/Tablice.iml" filepath="$PROJECT_DIR$/Tablice/Tablice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wielowatkowosc/Wielowatkowosc.iml" filepath="$PROJECT_DIR$/Wielowatkowosc/Wielowatkowosc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Wyrazenia_regularne/Wyrazenia_regularne.iml" filepath="$PROJECT_DIR$/Wyrazenia_regularne/Wyrazenia_regularne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wyszukiwanie/Wyszukiwanie.iml" filepath="$PROJECT_DIR$/Wyszukiwanie/Wyszukiwanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zlozonosc_obliczeniowa/Zlozonosc_obliczeniowa.iml" filepath="$PROJECT_DIR$/Zlozonosc_obliczeniowa/Zlozonosc_obliczeniowa.iml" />
     </modules>
   </component>
 </project>
